@@ -6,3 +6,6 @@
 
 ### 1. Use Chat GPT
 The projrct depend on the GPT for website prompt
+
+### 2. Write code at Lovable AI
+I successfully created a wedding invitation website using the Lovable AI platform.
